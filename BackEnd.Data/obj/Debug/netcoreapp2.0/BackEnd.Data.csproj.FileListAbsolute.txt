@@ -1,0 +1,11 @@
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\bin\Debug\netcoreapp2.0\BackEnd.Data.deps.json
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\bin\Debug\netcoreapp2.0\BackEnd.Data.runtimeconfig.json
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\bin\Debug\netcoreapp2.0\BackEnd.Data.runtimeconfig.dev.json
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\bin\Debug\netcoreapp2.0\BackEnd.Data.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\bin\Debug\netcoreapp2.0\BackEnd.Data.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.csprojAssemblyReference.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.csproj.CoreCompileInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.AssemblyInfoInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.AssemblyInfo.cs
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Data\obj\Debug\netcoreapp2.0\BackEnd.Data.pdb

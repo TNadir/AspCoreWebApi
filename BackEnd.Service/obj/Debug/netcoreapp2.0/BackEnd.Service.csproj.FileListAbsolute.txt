@@ -1,0 +1,14 @@
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.Service.deps.json
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.Service.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.Service.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.BO.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.Data.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.BO.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\bin\Debug\netcoreapp2.0\BackEnd.Data.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.csprojAssemblyReference.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.csproj.CoreCompileInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.AssemblyInfoInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.AssemblyInfo.cs
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.csproj.CopyComplete
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.Service\obj\Debug\netcoreapp2.0\BackEnd.Service.pdb

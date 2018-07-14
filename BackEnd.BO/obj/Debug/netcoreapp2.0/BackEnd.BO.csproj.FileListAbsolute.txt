@@ -1,0 +1,12 @@
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\bin\Debug\netcoreapp2.0\BackEnd.BO.deps.json
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\bin\Debug\netcoreapp2.0\BackEnd.BO.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\bin\Debug\netcoreapp2.0\BackEnd.BO.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\bin\Debug\netcoreapp2.0\BackEnd.Data.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\bin\Debug\netcoreapp2.0\BackEnd.Data.pdb
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.csprojAssemblyReference.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.csproj.CoreCompileInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.AssemblyInfoInputs.cache
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.AssemblyInfo.cs
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.csproj.CopyComplete
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.dll
+D:\dotnetproject\HomeAccount\BackEnd\BackEnd.BO\obj\Debug\netcoreapp2.0\BackEnd.BO.pdb
