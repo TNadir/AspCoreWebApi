@@ -37,6 +37,7 @@ namespace BackEnd.WebApi
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped<IUser, UserService>();
             services.AddScoped<IBillService, BillService>();
+            services.AddScoped<ICategoryService, CategoriService>();
 
             services.AddCors(options =>
             {
