@@ -53,7 +53,7 @@ namespace BackEnd.BO.Repositories
             return entity;
         }
 
-        public async Task Update(T entity)
+        public async Task<T> Update(T entity)
         {
             if (entity == null)
             {
@@ -61,7 +61,7 @@ namespace BackEnd.BO.Repositories
             }
             this.context.Entry(entity).State = EntityState.Modified;
             await this.context.SaveChangesAsync();
-
+            return entity;
         }
 
         public async Task<List<T>> GetAll()

@@ -37,5 +37,21 @@ namespace BackEnd.Service.Services
             }
 
         }
+
+        public Task<Categories> Update(Categories categories)
+        {
+            try
+            {
+                return this.repo.Update(categories);
+            }
+            catch (Exception ex)
+            {
+                this.errorMessage = ex.Message;
+                return null;
+            }
+        }
+
+
+
     }
 }

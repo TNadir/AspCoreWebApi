@@ -12,10 +12,10 @@ namespace BackEnd.BO.Repositories
 
         Task<T> GetById(int id);
         Task<T> Insert(T entity);
+        Task<T> Update(T entity);
         Task<List<T>> FindBy(Expression<Func<T, bool>> predicate);
         Task<List<T>> GetAll();
         Task<List<T>> GetAllAsync();
-        Task Update(T entity);
         Task Delete(T entity);
     }
 }

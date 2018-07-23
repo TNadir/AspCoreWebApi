@@ -23,18 +23,32 @@ namespace BackEnd.WebApi.Controllers
         {
             return Ok(await this.categoryService.GetCategories());
         }
-         
+
         [HttpPost]
-        [ActionName("addcategories")]
+        [ActionName("insert")]
         public async Task<IActionResult> Post([FromBody]Categories categories)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            var usr = await this.categoryService.Insert(categories);
-            return Ok(usr);
+            var insertedCategroy = await this.categoryService.Insert(categories);
+            return Ok(insertedCategroy);
         }
+
+
+        [HttpPut]
+        [ActionName("update")]
+        public async Task<IActionResult> Update([FromBody]Categories categories)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var updatedCategroy = await this.categoryService.Update(categories);
+            return Ok(updatedCategroy);
+        }
+
 
     }
 }
