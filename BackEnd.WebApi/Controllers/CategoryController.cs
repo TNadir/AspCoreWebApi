@@ -49,6 +49,17 @@ namespace BackEnd.WebApi.Controllers
             return Ok(updatedCategroy);
         }
 
+        [HttpPost]
+        [ActionName("delete")]
+        public async Task<IActionResult> Delete([FromBody]Categories categories)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            await this.categoryService.Delete(categories);
+            return Ok(categories);
+        }
 
     }
 }

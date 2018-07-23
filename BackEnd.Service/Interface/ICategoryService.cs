@@ -9,6 +9,7 @@ namespace BackEnd.Service.Interface
     {
         Task<List<Categories>> GetCategories();
         Task<Categories> Insert(Categories categories);
-         Task<Categories> Update(Categories categories);
+        Task<Categories> Update(Categories categories);
+        Task Delete(Categories categories);
     }
 }

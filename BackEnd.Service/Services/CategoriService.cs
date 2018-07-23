@@ -19,6 +19,11 @@ namespace BackEnd.Service.Services
             this.repo = _repo;
         }
 
+        public Task Delete(Categories categories)
+        {
+          return  this.repo.Delete(categories);
+        }
+
         public Task<List<Categories>> GetCategories()
         {
             return this.repo.GetAll();
